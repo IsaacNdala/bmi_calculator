@@ -1,4 +1,8 @@
-# bmi_calculator
+# BMI Calculator
+
+<img src=./assets/images/project_image.png />
+
+## About
 
 A new Flutter project.
 
