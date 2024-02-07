@@ -4,7 +4,7 @@
 
 ## About
 
-A new Flutter project.
+This is a bmi calculator app.
 
 ## Getting Started
 
